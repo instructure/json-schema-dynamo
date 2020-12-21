@@ -1,6 +1,6 @@
 {
   "name": "@instructure/json-schema-dynamo",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "description": "Transform objects based on their JSON Schema definition back and forth between DynamoDB items",
   "main": "index.js",
   "author": "Instructure / Matthew Sessions",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/instructure/json-schema-dynamo.git" 
+    "url": "https://github.com/instructure/json-schema-dynamo.git"
   },
   "dependencies": {
     "jsonschema": "1.0.1"
